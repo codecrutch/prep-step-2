@@ -64,6 +64,7 @@ end
 # number_of_species**2 * smallest_population_size / largest_population_size
 # biodiversity_index(["cat", "cat", "cat"]) => 1
 # biodiversity_index(["cat", "leopard-spotted ferret", "dog"]) => 9
+# biodiversity_index(["cat", "cat", "leopard-spotted ferret", "dog"]) => 4 
 def biodiversity_index(specimens)
 
 end
